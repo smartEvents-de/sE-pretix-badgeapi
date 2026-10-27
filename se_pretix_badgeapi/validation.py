@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-License-Identifier: Apache-2.0
 # Copyright (C) 2026 the sE-pretix authors
 """Reine Python-Validierung (ohne pretix/Django-Import), damit sie isoliert testbar ist."""
 from __future__ import annotations

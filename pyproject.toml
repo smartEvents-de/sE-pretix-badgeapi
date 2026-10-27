@@ -8,7 +8,7 @@ dynamic = ["version"]
 description = "pretix-Plugin: REST-Endpunkt zum Anlegen von Badge-Layouts (Schreibzugriff, den die pretix-API selbst nicht bietet)"
 readme = "README.md"
 requires-python = ">=3.9"
-license = { text = "AGPL-3.0-or-later" }
+license = { text = "Apache-2.0" }
 authors = [{ name = "sE-pretix" }]
 dependencies = []   # pretix bringt alles mit; Kompatibilität steht in PretixPluginMeta.compatibility
 

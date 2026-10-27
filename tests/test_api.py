@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-License-Identifier: Apache-2.0
 # Copyright (C) 2026 the sE-pretix authors
 """API-Tests im Stil der pretix-Testsuite. Laufen NICHT standalone, sondern im pretix-Repo
 (`src/`, mit `pytest tests/plugins/...`), wenn dieses Plugin dort installiert ist:
